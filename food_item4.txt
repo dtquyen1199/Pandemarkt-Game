@@ -1,0 +1,46 @@
+9
+Apple
+250
+icons/apple_44px-01.png
+aisle fruit
+1
+Banana
+250
+icons/banana_44px.png
+asile fruit
+1
+Toilet Paper
+2400
+icons/toilet-paper_44px-02.png
+aisle cleaning
+1
+Pasta
+300
+icons/Spag_44px-04.png
+aisle Pasta
+1
+Hand Sanitizer
+1200
+icons/Sani_44px-06.png
+aisle cleaning
+1
+Bread
+250
+icons/bread_44px.png
+aisle baked goods
+1
+Broccoli
+250
+icons/broc_44px-07.png
+asile veggies
+1
+Eggs
+2400
+icons/Eggs_44px-05.png
+aisle dairy
+1
+Toothpaste
+300
+icons/Toothpaste_44px-08.png
+aisle cosmetics
+1
